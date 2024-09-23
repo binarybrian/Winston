@@ -1,0 +1,1 @@
+This is a ComfyUI custom node to select human readable SDXL compatible aspect ratios. I am not the original author and unfortunately I've lost track of who I got this from other than the fellow's name is "Winston"
